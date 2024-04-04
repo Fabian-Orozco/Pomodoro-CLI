@@ -17,7 +17,7 @@ This project is open-source, and contributions are welcome to enhance its functi
 
 2. Navigate to the directory:
     ```
-    cd pomodoro_cli
+    cd pomodoro_cli/src
     ```
 
 3. Install the required library:
