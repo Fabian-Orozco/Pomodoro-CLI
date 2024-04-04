@@ -12,7 +12,7 @@ This project is open-source, and contributions are welcome to enhance its functi
 
 1. Clone the repository:
     ```
-    git clone https://github.com/your_username/pomodoro_cli.git
+    git clone https://github.com/Fabian-Orozco/pomodoro_cli.git
     ```
 
 2. Navigate to the directory:
